@@ -1,2 +1,0 @@
-#root,body,html{width:100%;height:100%;margin:0;padding:0;overflow:hidden}#root{-webkit-filter:saturate(1.15) hue-rotate(345deg);filter:saturate(1.15) hue-rotate(345deg)}#root *{display:flex;align-items:center;justify-content:center}@-webkit-keyframes fade-in{0%{opacity:0}to{opacity:1}}@keyframes fade-in{0%{opacity:0}to{opacity:1}}canvas{opacity:0;touch-action:none;-webkit-animation:fade-in 1s ease .3s forwards;animation:fade-in 1s ease .3s forwards}canvas:active{cursor:grabbing}
-/*# sourceMappingURL=main.97e1a5f0.chunk.css.map */
